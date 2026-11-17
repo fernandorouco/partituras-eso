@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20261117212730YNEBD1</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20261117212730UCQRS1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.6</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PARTITURAS</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Educación Secundaria Obligatoria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Fernando Rouco</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Página con acceso a diversos arreglos de partituras para Música de la ESO con arreglos Orff o de banda transportados a do mayor/la menor.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.6</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1794934713945</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScore</key>
+    <value>5</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_passScoreEveryActivity</key>
+    <value>false</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡BIENVENIDO/A!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡BIENVENIDO/A!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+      <odeBlockId>block-mwl0tnjb-cff91dpnm</odeBlockId>
+      <blockName>Cómo usar este cuaderno de partituras interactivo</blockName>
+      <iconName>mi-piano</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+          <odeBlockId>block-mwl0tnjb-cff91dpnm</odeBlockId>
+          <odeIdeviceId>idevice-1794939818085-qzy2hzjro</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el menú de la izquierda encontrarás las obras que vamos a trabajar este curso. Dentro de cada canción tienes todo el material organizado para estudiar tanto en clase como en casa:</p>
+<ol>
+<li>
+<p><strong>Escucha la versión original:</strong> en la página principal de cada obra tienes el vídeo de referencia y la partitura general para conocer la estructura y el carácter de la pieza.</p>
+</li>
+<li>
+<p><strong>Entra en tu instrumento:</strong> despliega la canción en el menú lateral y selecciona tu parte (Glockenspiel, Metalófono, Xilófono, Bajo o Batería).</p>
+</li>
+<li>
+<p><strong>Estudia con el vídeo guía:</strong> dale al play para ver tu partitura en movimiento junto con el teclado iluminado y escuchar exactamente cómo suena tu papel. (Truco: si un pasaje va muy rápido, pulsa el icono de la rueda dentada en el reproductor para bajar la velocidad).</p>
+</li>
+<li>
+<p><strong>Descarga tu partitura:</strong> debajo del vídeo tienes tu <em>particella</em> en formato PDF lista para leer con calma o imprimir si la necesitas en papel.</p>
+</li>
+<li>
+<p><strong>¿Quieres practicar con tu móvil/tablet?</strong> Si tienes MuseScore instalado en tu ordenador o tablet, puedes abrir el enlace directo a la obra para practicar con la app.</p>
+</li>
+</ol>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794939818085-qzy2hzjro","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el menú de la izquierda encontrarás las obras que vamos a trabajar este curso. Dentro de cada canción tienes todo el material organizado para estudiar tanto en clase como en casa:</p>\n<ol>\n<li>\n<p><strong>Escucha la versión original:</strong> en la página principal de cada obra tienes el vídeo de referencia y la partitura general para conocer la estructura y el carácter de la pieza.</p>\n</li>\n<li>\n<p><strong>Entra en tu instrumento:</strong> despliega la canción en el menú lateral y selecciona tu parte (Glockenspiel, Metalófono, Xilófono, Bajo o Batería).</p>\n</li>\n<li>\n<p><strong>Estudia con el vídeo guía:</strong> dale al play para ver tu partitura en movimiento junto con el teclado iluminado y escuchar exactamente cómo suena tu papel. (Truco: si un pasaje va muy rápido, pulsa el icono de la rueda dentada en el reproductor para bajar la velocidad).</p>\n</li>\n<li>\n<p><strong>Descarga tu partitura:</strong> debajo del vídeo tienes tu <em>particella</em> en formato PDF lista para leer con calma o imprimir si la necesitas en papel.</p>\n</li>\n<li>\n<p><strong>¿Quieres practicar con tu móvil/tablet?</strong> Si tienes MuseScore instalado en tu ordenador o tablet, puedes abrir el enlace directo a la obra para practicar con la app.</p>\n</li>\n</ol>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+      <odeBlockId>block-mwl0icpf-737xd70fr</odeBlockId>
+      <blockName>¡Prepárate!</blockName>
+      <iconName>mi-apps</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+          <odeBlockId>block-mwl0icpf-737xd70fr</odeBlockId>
+          <odeIdeviceId>idevice-1794939290834-0u7zo6iyu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Enlaces de interés:</p>
+<ul>
+<li><a href="https://musescore.com/?srsltid=AYCX9vIftkLfjPEM7Km8IlK3znJrAG0as7exmR-hipmsh3Hzzjx6m2pR" target="_blank" title="" rel="noopener">Página oficial de Musescore.</a></li>
+<li><a href="https://musescore.org/es" target="_blank" title="" rel="noopener">Descarga del software Musescore para MAC, Windows y Linux.</a></li>
+<li title="">Musescore en <a href="https://apps.apple.com/us/app/musescore-sheet-music-chords/id835731296" target="_blank" rel="noopener">Apple Store</a> para iPad e iPhone.</li>
+<li title="">Musescore en <a href="https://play.google.com/store/apps/details?id=com.musescore.playerlite&amp;hl=es" target="_blank" rel="noopener">Google Play</a> para Android.</li>
+</ul>
+<p style="text-align: center;"><strong></strong></p>
+<p style="text-align: center;"><strong>¡IMPORTANTE!</strong> No es necesario realizar ninguna suscripción de pago en las páginas de Musescore. Todo el contenido que vamos a utilizar es gratuito.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794939290834-0u7zo6iyu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Enlaces de interés:</p>\n<ul>\n<li><a href=\"https://musescore.com/?srsltid=AYCX9vIftkLfjPEM7Km8IlK3znJrAG0as7exmR-hipmsh3Hzzjx6m2pR\" target=\"_blank\" title=\"\" rel=\"noopener\">Página oficial de Musescore.</a></li>\n<li><a href=\"https://musescore.org/es\" target=\"_blank\" title=\"\" rel=\"noopener\">Descarga del software Musescore para MAC, Windows y Linux.</a></li>\n<li title=\"\">Musescore en <a href=\"https://apps.apple.com/us/app/musescore-sheet-music-chords/id835731296\" target=\"_blank\" rel=\"noopener\">Apple Store</a> para iPad e iPhone.</li>\n<li title=\"\">Musescore en <a href=\"https://play.google.com/store/apps/details?id=com.musescore.playerlite&amp;hl=es\" target=\"_blank\" rel=\"noopener\">Google Play</a> para Android.</li>\n</ul>\n<p style=\"text-align: center;\"><strong></strong></p>\n<p style=\"text-align: center;\"><strong>¡IMPORTANTE!</strong> No es necesario realizar ninguna suscripción de pago en las páginas de Musescore. Todo el contenido que vamos a utilizar es gratuito.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+      <odeBlockId>block-mwl0ht7d-6z0pp3dha</odeBlockId>
+      <blockName>¡Primeros Pasos!</blockName>
+      <iconName>video</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl0hnhj-qi19rfjs7</odePageId>
+          <odeBlockId>block-mwl0ht7d-6z0pp3dha</odeBlockId>
+          <odeIdeviceId>idevice-1794939265561-xebul70cr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;">TUTORIAL DE CÓMO USAR ESTA PÁGINA</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794939265561-xebul70cr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\">TUTORIAL DE CÓMO USAR ESTA PÁGINA</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Gigi D&apos;Agostino - L&apos;amour Tojours (2000)</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Gigi D&apos;Agostino - L&apos;amour Tojours (2000)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Gigi D&apos;Agostino - L&apos;amour Tojours (2000)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odePageId>
+      <odeBlockId>block-mwl0be40-296kaktpx</odeBlockId>
+      <blockName>Compositor e historia</blockName>
+      <iconName>mi-books_movies_and_music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odePageId>
+          <odeBlockId>block-mwl0be40-296kaktpx</odeBlockId>
+          <odeIdeviceId>idevice-1794938966062-49z3d8m89</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center" style="width: 560px;" id="fig_vuoxrke0y"><iframe width="560" height="314" src="https://www.youtube.com/embed/w15oWDh02K4?si=Uc_1tKq5xQEBmbEF" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="title"><em>L'amour Toujours</em></span></figcaption>
+</figure>
+<p>Es una canción del disc-jockey y productor italiano Gigi D'Agostino que fue incluida en el álbum homónimo como el segundo sencillo del mismo. Es el mayor éxito del artista, y tiene como vocalista al cantautor británico Ola Onabulé, presente en todas las versiones de la canción. Es del género Italo dance y fue estrenada en el año 2000.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794938966062-49z3d8m89","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\" id=\"fig_vuoxrke0y\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/w15oWDh02K4?si=Uc_1tKq5xQEBmbEF\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>L'amour Toujours</em></span></figcaption>\n</figure>\n<p>Es una canción del disc-jockey y productor italiano Gigi D'Agostino que fue incluida en el álbum homónimo como el segundo sencillo del mismo. Es el mayor éxito del artista, y tiene como vocalista al cantautor británico Ola Onabulé, presente en todas las versiones de la canción. Es del género Italo dance y fue estrenada en el año 2000.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odePageId>
+      <odeBlockId>block-mwl143ky-0e3akn8x2</odeBlockId>
+      <blockName>PARTITURA COMPLETA</blockName>
+      <iconName>mi-queue_music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odePageId>
+          <odeBlockId>block-mwl143ky-0e3akn8x2</odeBlockId>
+          <odeIdeviceId>idevice-1794940305440-oypd1jfim</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>MUSESCORE</h3>
+<p><iframe width="100%" height="394" id="score-iframe" src="https://musescore.com/user/36438217/scores/40572048/embed" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/36438217/scores/40572048/s/hJ-bZR" target="_blank" rel="noopener">L'amour toujours – Gigi D'Agostino</a> by <a href="https://musescore.com/user/36438217">Fernando Rouco</a></span></p>
+<h3>AUDIO</h3>
+<p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT.mp3"></audio></p>
+<h3>VIDEO</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/R2VNp9WqPlc?si=oGqGnq1bzgrXc8Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<h3>PDF + IMPRIMIR</h3>
+<p><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT.pdf"></iframe><a href="{{context_path}}/content/resources/LAmourToujours/LT.pdf" title="LT.pdf"></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794940305440-oypd1jfim","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>MUSESCORE</h3>\n<p><iframe width=\"100%\" height=\"394\" id=\"score-iframe\" src=\"https://musescore.com/user/36438217/scores/40572048/embed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen\"></iframe><span><a href=\"https://musescore.com/user/36438217/scores/40572048/s/hJ-bZR\" target=\"_blank\" rel=\"noopener\">L'amour toujours – Gigi D'Agostino</a> by <a href=\"https://musescore.com/user/36438217\">Fernando Rouco</a></span></p>\n<h3>AUDIO</h3>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT.mp3\"></audio></p>\n<h3>VIDEO</h3>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/R2VNp9WqPlc?si=oGqGnq1bzgrXc8Og\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h3>PDF + IMPRIMIR</h3>\n<p><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT.pdf\"></iframe><a href=\"{{context_path}}/content/resources/LAmourToujours/LT.pdf\" title=\"LT.pdf\"></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl0em8b-490ii7cki</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Glockenspiel 1</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glockenspiel 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Glockenspiel 1</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl0em8b-490ii7cki</odePageId>
+      <odeBlockId>block-mwl0enz8-zlbj3gb46</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl0em8b-490ii7cki</odePageId>
+          <odeBlockId>block-mwl0enz8-zlbj3gb46</odeBlockId>
+          <odeIdeviceId>idevice-1794939118819-991otmzyc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO</h3>
+<h3><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Glocken1.mp3"></audio><br /></h3>
+<h3><br /></h3>
+<h3>VIDEO</h3>
+<h3><iframe width="560" height="314" src="https://www.youtube.com/embed/SLFmEXc9nL4?si=JuCmglgp4UXXcRUL" allowfullscreen="allowfullscreen"></iframe><br /></h3>
+<h3><br /></h3>
+<h3>PDF</h3>
+<h3><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Glockenspiel_1.pdf"></iframe> </h3>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794939118819-991otmzyc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO</h3>\n<h3><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Glocken1.mp3\"></audio><br /></h3>\n<h3><br /></h3>\n<h3>VIDEO</h3>\n<h3><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/SLFmEXc9nL4?si=JuCmglgp4UXXcRUL\" allowfullscreen=\"allowfullscreen\"></iframe><br /></h3>\n<h3><br /></h3>\n<h3>PDF</h3>\n<h3><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Glockenspiel_1.pdf\"></iframe> </h3>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl2ugbj-n3nvz16eh</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Glockenspiel 2</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glockenspiel 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl2ugbj-n3nvz16eh</odePageId>
+      <odeBlockId>block-mwl2uoy4-yfb88cum1</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl2ugbj-n3nvz16eh</odePageId>
+          <odeBlockId>block-mwl2uoy4-yfb88cum1</odeBlockId>
+          <odeIdeviceId>idevice-1794943225803-rvb5uzgf1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Glocken2.mp3"></audio> </h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/LvAzd3IICZo?si=jhhat6dRHVdLvzX9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Glockenspiel_2.pdf"></iframe>  </h3>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794943225803-rvb5uzgf1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Glocken2.mp3\"></audio> </h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/LvAzd3IICZo?si=jhhat6dRHVdLvzX9\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Glockenspiel_2.pdf\"></iframe>  </h3>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl2ww2b-s0kjbwg6a</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Xilófono Soprano</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Xilófono Soprano</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl2ww2b-s0kjbwg6a</odePageId>
+      <odeBlockId>block-mwl2x2cy-6dgy4wsbh</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl2ww2b-s0kjbwg6a</odePageId>
+          <odeBlockId>block-mwl2x2cy-6dgy4wsbh</odeBlockId>
+          <odeIdeviceId>idevice-mwl2x2cz-dvyrbs3k1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_S.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/0RkdcAuqRBc?list=PLWylBOKS-ZjA&amp;index=5" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_S.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl2x2cz-dvyrbs3k1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_S.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/0RkdcAuqRBc?list=PLWylBOKS-ZjA&amp;index=5\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_S.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl2z1zc-n3kys2pti</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Metalófono Soprano</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metalófono Soprano</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl2z1zc-n3kys2pti</odePageId>
+      <odeBlockId>block-mwl2z5sf-nyyw3vkwo</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl2z1zc-n3kys2pti</odePageId>
+          <odeBlockId>block-mwl2z5sf-nyyw3vkwo</odeBlockId>
+          <odeIdeviceId>idevice-mwl2z5sf-vp31d7ygy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_S.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/niPZT9WT6C0?list=PLWylBOKS-ZjA&amp;index=4" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_S.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl2z5sf-vp31d7ygy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_S.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/niPZT9WT6C0?list=PLWylBOKS-ZjA&amp;index=4\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_S.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwl2z1zc-n3kys2pti</odePageId>
+      <odeBlockId>block-mwl30mjl-mflxs1lcm</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl30hdd-2qnj6ochs</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Xilófono Alto</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Xilófono Alto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl30hdd-2qnj6ochs</odePageId>
+      <odeBlockId>block-mwl30qqe-c7tqu7loz</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl30hdd-2qnj6ochs</odePageId>
+          <odeBlockId>block-mwl30qqe-c7tqu7loz</odeBlockId>
+          <odeIdeviceId>idevice-mwl30mjl-e59tlv05r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_A.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/Tfk6p9uPWaM?list=PLWylBOKS-ZjA&amp;index=6" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_A.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl30mjl-e59tlv05r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_A.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Tfk6p9uPWaM?list=PLWylBOKS-ZjA&amp;index=6\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_A.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl32dxq-2uy7qbut0</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Metalófono Alto</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metalófono Alto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl32dxq-2uy7qbut0</odePageId>
+      <odeBlockId>block-mwl324kl-ges25bbki</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl32dxq-2uy7qbut0</odePageId>
+          <odeBlockId>block-mwl324kl-ges25bbki</odeBlockId>
+          <odeIdeviceId>idevice-mwl324kl-uoe4q2m93</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_A.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/KkG_uo69zhY?list=PLWylBOKS-ZjA&amp;index=7" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_A.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl324kl-uoe4q2m93","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_A.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KkG_uo69zhY?list=PLWylBOKS-ZjA&amp;index=7\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_A.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl33vzk-3aj62l1h8</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Xilófono Bajo</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Xilófono Bajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl33vzk-3aj62l1h8</odePageId>
+      <odeBlockId>block-mwl3471u-6uszlit9t</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl33vzk-3aj62l1h8</odePageId>
+          <odeBlockId>block-mwl3471u-6uszlit9t</odeBlockId>
+          <odeIdeviceId>idevice-mwl3471u-sz4cfh8rs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_B.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/aNlgIQOl0AQ?list=PLWylBOKS-ZjA&amp;index=8" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_B.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl3471u-sz4cfh8rs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_B.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/aNlgIQOl0AQ?list=PLWylBOKS-ZjA&amp;index=8\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Xilofono_B.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl34172-sq3nodbfn</odePageId>
+  <odeParentPageId>55a10d7f-8ba1-40fc-b69d-62810e861923</odeParentPageId>
+  <pageName>Metalófono Bajo</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metalófono Bajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Metalófono Bajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl34172-sq3nodbfn</odePageId>
+      <odeBlockId>block-mwl344yf-j8p049ivk</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl34172-sq3nodbfn</odePageId>
+          <odeBlockId>block-mwl344yf-j8p049ivk</odeBlockId>
+          <odeIdeviceId>idevice-mwl344yf-6d4sk6c8w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_B.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/Bzjft_wL7qk?list=PLWylBOKS-ZjA&amp;index=9" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_B.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl344yf-6d4sk6c8w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_B.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Bzjft_wL7qk?list=PLWylBOKS-ZjA&amp;index=9\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/LAmourToujours/LT-Metalofono_B.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl3a9i7-3wl078dlx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Hans Zimmer - Gladiator</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Hans Zimmer - Gladiator</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Hans Zimmer - Gladiator</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl3a9i7-3wl078dlx</odePageId>
+      <odeBlockId>block-mwl3a9i7-7sb9fakfd</odeBlockId>
+      <blockName>Compositor e historia</blockName>
+      <iconName>mi-books_movies_and_music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl3a9i7-3wl078dlx</odePageId>
+          <odeBlockId>block-mwl3a9i7-7sb9fakfd</odeBlockId>
+          <odeIdeviceId>idevice-mwl3a9i7-0ky0o4yxq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure exe-media position-center" style="width: 560px;"><iframe width="560" height="314" src="https://www.youtube.com/embed/Omlmv26P0to" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="title"><em>The Dream is Lost</em></span></figcaption>
+</figure>
+<p>Esta pieza llamada <em>The Dream is Lost</em> pertenece a la película de <em>Gladiator II (2024)</em>, secuela de <em>Gladiator (2000)</em>. La partitura original es de Hans Zimmer, aunque para la secuela ha sido compuesta por Harry Gregson-Williams.</p>
+<p>La original está compuesta en Si menor, pero usaremos un arreglo en Re Menor para facilitar la lectura de la partitura.</p>
+<p>Aquí está el audio que acompaña la partitura.</p>
+<p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/TheDreamIsLost/TheDreamIsLost-Am.mp3"></audio></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl3a9i7-0ky0o4yxq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/Omlmv26P0to\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"title\"><em>The Dream is Lost</em></span></figcaption>\n</figure>\n<p>Esta pieza llamada <em>The Dream is Lost</em> pertenece a la película de <em>Gladiator II (2024)</em>, secuela de <em>Gladiator (2000)</em>. La partitura original es de Hans Zimmer, aunque para la secuela ha sido compuesta por Harry Gregson-Williams.</p>\n<p>La original está compuesta en Si menor, pero usaremos un arreglo en Re Menor para facilitar la lectura de la partitura.</p>\n<p>Aquí está el audio que acompaña la partitura.</p>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TheDreamIsLost-Am.mp3\"></audio></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mwl3a9i7-3wl078dlx</odePageId>
+      <odeBlockId>block-mwl3a9i7-84hhv54it</odeBlockId>
+      <blockName>PARTITURA COMPLETA</blockName>
+      <iconName>mi-queue_music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl3a9i7-3wl078dlx</odePageId>
+          <odeBlockId>block-mwl3a9i7-84hhv54it</odeBlockId>
+          <odeIdeviceId>idevice-mwl3a9i7-cvqtmqmnh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>MUSESCORE</h3>
+<p><iframe width="100%" height="394" id="score-iframe" src="https://musescore.com/user/36438217/scores/40575924/embed" frameborder="0" allowfullscreen="allowfullscreen" allow="autoplay; fullscreen"></iframe><span><a href="https://musescore.com/user/36438217/scores/40575924/s/vYxaj6" target="_blank" rel="noopener">The Dream Is Lost – Harry Gregson-Williams</a> by <a href="https://musescore.com/user/36438217">Fernando Rouco</a></span></p>
+<h3>AUDIO</h3>
+<p><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL.mp3"></audio></p>
+<h3>VIDEO</h3>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/p4V7iFP0RzA" allowfullscreen="allowfullscreen"></iframe></p>
+<h3>PDF + IMPRIMIR</h3>
+<p><iframe width="800" height="600" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL.pdf"></iframe><a href="{{context_path}}/content/resources/LAmourToujours/LT.pdf" title="LT.pdf"></a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl3a9i7-cvqtmqmnh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>MUSESCORE</h3>\n<p><iframe width=\"100%\" height=\"394\" id=\"score-iframe\" src=\"https://musescore.com/user/36438217/scores/40575924/embed\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\" allow=\"autoplay; fullscreen\"></iframe><span><a href=\"https://musescore.com/user/36438217/scores/40575924/s/vYxaj6\" target=\"_blank\" rel=\"noopener\">The Dream Is Lost – Harry Gregson-Williams</a> by <a href=\"https://musescore.com/user/36438217\">Fernando Rouco</a></span></p>\n<h3>AUDIO</h3>\n<p><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL.mp3\"></audio></p>\n<h3>VIDEO</h3>\n<p><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/p4V7iFP0RzA\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<h3>PDF + IMPRIMIR</h3>\n<p><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL.pdf\"></iframe><a href=\"{{context_path}}/content/resources/LAmourToujours/LT.pdf\" title=\"LT.pdf\"></a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl38y3u-yo0c3h8vy</odePageId>
+  <odeParentPageId>page-mwl3a9i7-3wl078dlx</odeParentPageId>
+  <pageName>Glock. 1 + Metal. y Xil.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glock. 1 + Metal. y Xil.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Glock. 1 + Metal. y Xil.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl38y3u-yo0c3h8vy</odePageId>
+      <odeBlockId>block-mwl4hp76-mksvc9nsz</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl38y3u-yo0c3h8vy</odePageId>
+          <odeBlockId>block-mwl4hp76-mksvc9nsz</odeBlockId>
+          <odeIdeviceId>idevice-mwl4hp76-kp2zvd5g6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glock.Met.Xil..mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/h2crx1mYHTs" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glock.Met.Xil..pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl4hp76-kp2zvd5g6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glock.Met.Xil..mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/h2crx1mYHTs\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glock.Met.Xil..pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl4x0o5-rbohggxi5</odePageId>
+  <odeParentPageId>page-mwl3a9i7-3wl078dlx</odeParentPageId>
+  <pageName>Glockenspiel 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glockenspiel 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Glockenspiel 2</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl4x0o5-rbohggxi5</odePageId>
+      <odeBlockId>block-mwl4x0o5-7ig13ympe</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl4x0o5-rbohggxi5</odePageId>
+          <odeBlockId>block-mwl4x0o5-7ig13ympe</odeBlockId>
+          <odeIdeviceId>idevice-mwl4x0o5-b6ot53ram</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glockenspiel_2.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/zBkj5FTxD7Y" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glockenspiel_2.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl4x0o5-b6ot53ram","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glockenspiel_2.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zBkj5FTxD7Y\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Glockenspiel_2.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mwl39rgy-cgc1xea8e</odePageId>
+  <odeParentPageId>page-mwl3a9i7-3wl078dlx</odeParentPageId>
+  <pageName>Metalófono y Xilófono Bajo</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Metalófono y Xilófono Bajo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mwl39rgy-cgc1xea8e</odePageId>
+      <odeBlockId>block-mwl4hs4z-hp3utpkrg</odeBlockId>
+      <blockName>Multimedia</blockName>
+      <iconName>mi-music_note</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mwl39rgy-cgc1xea8e</odePageId>
+          <odeBlockId>block-mwl4hs4z-hp3utpkrg</odeBlockId>
+          <odeIdeviceId>idevice-mwl4hs4z-1du6o84ft</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h3>AUDIO<br /><audio width="300" height="40" controls="controls" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Xil_Met_Bajo.mp3"></audio></h3>
+<h3><br /></h3>
+<h3>VIDEO<br /><iframe width="560" height="315" src="https://www.youtube.com/embed/Z25USFWb0nc" allowfullscreen="allowfullscreen"></iframe> </h3>
+<h3><br /></h3>
+<h3>PDF<br /><iframe width="800" height="600" src="{{context_path}}/content/resources/TheDreamIsLost/TDIL-Xil_Met_Bajo.pdf"></iframe>  </h3>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mwl4hs4z-1du6o84ft","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h3>AUDIO<br /><audio width=\"300\" height=\"40\" controls=\"controls\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Xil_Met_Bajo.mp3\"></audio></h3>\n<h3><br /></h3>\n<h3>VIDEO<br /><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Z25USFWb0nc\" allowfullscreen=\"allowfullscreen\"></iframe> </h3>\n<h3><br /></h3>\n<h3>PDF<br /><iframe width=\"800\" height=\"600\" src=\"{{context_path}}/content/resources/TheDreamIsLost/TDIL-Xil_Met_Bajo.pdf\"></iframe>  </h3>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
